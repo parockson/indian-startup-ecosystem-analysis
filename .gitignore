@@ -1,4 +1,3 @@
 .env
-business.txt
-ipynb-checkpoints
-sql_test.ipynb
+/.ipynb_checkpoints
+/venv
