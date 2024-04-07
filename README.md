@@ -11,10 +11,4 @@ python -m venv venv
 
 ## start installing your packages
 
-pip install python-dotenv
-pip install pyodbc
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install scipy
-pip install jupyterlab
+pip install python-dotenv pyodbc numpy pandas seaborn scipy jupyterlab scikit-learn
